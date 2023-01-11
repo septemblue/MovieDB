@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861136106881",
+    "project_id": "moviedb-addad",
+    "storage_bucket": "moviedb-addad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861136106881:android:8679cfdf8dc901cf9e2480",
+        "android_client_info": {
+          "package_name": "com.example.moviecatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861136106881-fi5o7ut6466gvngr6j7gq0007gq2t6gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QIlHCwZTwiIZw0ufCaa_nEWZXZvaCak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861136106881-fi5o7ut6466gvngr6j7gq0007gq2t6gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

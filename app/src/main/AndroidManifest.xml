@@ -16,10 +16,10 @@
         android:theme="@style/Theme.MovieCatalog"
         tools:targetApi="31">
         <activity
-            android:name=".Main.MovieDetail"
+            android:name=".Main.Register"
             android:exported="false" />
         <activity
-            android:name=".Main.MainActivity"
+            android:name=".Main.Login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,6 +27,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Main.MovieDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Main.MainActivity"
+            android:exported="false" />
     </application>
 
 </manifest>
